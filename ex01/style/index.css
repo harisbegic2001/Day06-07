@@ -1,0 +1,31 @@
+    h1{
+    color: red;
+    font-size: large;
+    
+}
+.container-1{
+    display: flex;
+}
+.container-2{
+    display: flex;
+}
+.container-3{
+    display: flex;
+}
+h4{
+    color:aqua;
+
+}
+p{
+    color: black;
+    width: 150;
+    font-size: 8;
+}
+.pic{
+    height: 100;
+    width: 150;
+}
+.box-1{
+    flex: 2;
+    margin:100,100,100,100;
+}
